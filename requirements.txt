@@ -1,0 +1,7 @@
+flask>=3.0
+requests>=2.31
+numpy>=1.26
+Pillow>=10.0
+ultralytics>=8.0
+sentinelsat>=1.1
+folium>=0.15
